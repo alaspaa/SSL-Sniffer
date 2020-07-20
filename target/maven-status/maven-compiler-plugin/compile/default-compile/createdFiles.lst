@@ -1,0 +1,5 @@
+com/spatineo/ssl/FileManager.class
+com/spatineo/ssl/QueryManager.class
+com/spatineo/ssl/CustomSSLSocketFactory.class
+com/spatineo/ssl/SSLSniffer.class
+com/spatineo/ssl/ServerCipherAndProtocol.class
